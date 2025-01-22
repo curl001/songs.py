@@ -1,1 +1,3 @@
-Replace line 56 in songs.py with your Google Chrome executable path
+Replace line 56 in songs.py with your Google Chrome executable path.
+
+To save the current state of your library close and re-open the app.
