@@ -10,4 +10,4 @@ To save the current state of your library close and re-open the app.
 
 Make sure songs.py and songs.json are in the same folder.
 
-Any misuse is your own fault. Don't try to message / email me.
+By using this software you agree that any misuse is your own fault. Don't try to message / email me - I won't answer.
